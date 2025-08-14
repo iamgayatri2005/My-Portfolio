@@ -26,7 +26,6 @@ My-Portfolio/
 │── script.js # JavaScript functionality (if used)
 │── images/ # Image assets
 │── README.md # Project documentation
-│── screenshot.png # Portfolio preview image
 
 ## ✨ Features
 - Responsive design for all devices 📱💻  
