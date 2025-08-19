@@ -38,8 +38,8 @@ body {
 }
 
 .nav-logo h2 {
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 650;
     color: #21243D;
 }
 
@@ -51,7 +51,7 @@ body {
 .nav-link {
     text-decoration: none;
     color: #21243D;
-    font-weight: 500;
+    font-weight: 450;
     font-size: 16px;
     transition: color 0.3s ease;
     position: relative;
