@@ -187,14 +187,14 @@ body {
     color: #21243D;
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 5px;
 }
 
 .hero-content p {
     font-size: 16px;
     line-height: 1.6;
     color: #21243D;
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     max-width: 500px;
 }
 .heading-with-image {
