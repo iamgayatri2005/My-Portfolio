@@ -243,7 +243,7 @@ body {
 }
 
 .section-divider h2 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 600;
     color: #21243D;
 }
@@ -251,7 +251,7 @@ body {
 .view-all-link {
     color: #00A8CC;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 14px;
     transition: color 0.3s ease;
 }
 
@@ -263,13 +263,13 @@ body {
 .posts-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
-    gap: 32px;
+    gap: 30px;
     margin-bottom: 60px;
 }
 
 .post-card {
     background: #EDF7FA;
-    padding: 32px;
+    padding: 30px;
     border-radius: 8px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -280,7 +280,7 @@ body {
 }
 
 .post-card h3 {
-    font-size: 26px;
+    font-size: 24px;
     font-weight: 700;
     color: #21243D;
     margin-bottom: 16px;
